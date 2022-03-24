@@ -1,0 +1,8 @@
+title: Rishirajpurohit.GitHub.io
+description: Maybe a website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
