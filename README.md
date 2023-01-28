@@ -1,2 +1,2 @@
-# rishirajpurohit.github.io
+# ri5h.github.io
 Maybe a website
